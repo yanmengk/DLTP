@@ -3,5 +3,9 @@
 # RNNs
 
 ## GRU
-- [Cho, Kyunghyun, et al. "Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation." Computer Science (2014).](https://arxiv.org/pdf/1406.1078v3.pdf)
-- [Cho, Kyunghyun, et al. "On the Properties of Neural Machine Translation: Encoder-Decoder Approaches." Computer Science (2014).](https://arxiv.org/pdf/1409.1259.pdf)
+- Cho, Kyunghyun, et al. "Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation." Computer Science (2014). [链接](https://arxiv.org/pdf/1406.1078v3.pdf)
+- Cho, Kyunghyun, et al. "On the Properties of Neural Machine Translation: Encoder-Decoder Approaches." Computer Science (2014). [链接](https://arxiv.org/pdf/1409.1259.pdf)
+- Chung, Junyoung, et al. "Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling." Eprint Arxiv (2014). [链接](https://arxiv.org/pdf/1412.3555.pdf)
+
+## LSTM
+- Hochreiter S, Schmidhuber J. Long Short-Term Memory[J]. Neural Computation, 1997, 9(8):1735-1780. [链接](https://www.bioinf.jku.at/publications/older/2604.pdf)
