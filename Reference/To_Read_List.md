@@ -9,3 +9,7 @@
 
 ## LSTM
 - Hochreiter S, Schmidhuber J. Long Short-Term Memory[J]. Neural Computation, 1997, 9(8):1735-1780. [链接](https://www.bioinf.jku.at/publications/older/2604.pdf)
+
+## RNN的梯度消失和梯度爆炸
+- Pascanu, Razvan, Mikolov, Tomas, and Bengio, Yoshua. "On the difficulty of training Recurrent Neural Networks." 52.3(2012):III-1310. [链接](http://proceedings.mlr.press/v28/pascanu13.pdf)
+
