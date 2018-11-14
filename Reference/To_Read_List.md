@@ -13,3 +13,4 @@
 ## RNN的梯度消失和梯度爆炸
 - Pascanu, Razvan, Mikolov, Tomas, and Bengio, Yoshua. "On the difficulty of training Recurrent Neural Networks." 52.3(2012):III-1310. [链接](http://proceedings.mlr.press/v28/pascanu13.pdf)
 
+ 
