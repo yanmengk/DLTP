@@ -1,6 +1,8 @@
 # To Read List about Deep Learning
 
 # RNNs
+## gradient vanishing & gradient exploding about RNN
+- Pascanu, Razvan, Mikolov, Tomas, and Bengio, Yoshua. "On the difficulty of training Recurrent Neural Networks." 52.3(2012):III-1310. [链接](http://proceedings.mlr.press/v28/pascanu13.pdf)
 
 ## GRU
 - Cho, Kyunghyun, et al. "Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation." Computer Science (2014). [链接](https://arxiv.org/pdf/1406.1078v3.pdf)
@@ -10,7 +12,8 @@
 ## LSTM
 - Hochreiter S, Schmidhuber J. Long Short-Term Memory[J]. Neural Computation, 1997, 9(8):1735-1780. [链接](https://www.bioinf.jku.at/publications/older/2604.pdf)
 
-## RNN的梯度消失和梯度爆炸
-- Pascanu, Razvan, Mikolov, Tomas, and Bengio, Yoshua. "On the difficulty of training Recurrent Neural Networks." 52.3(2012):III-1310. [链接](http://proceedings.mlr.press/v28/pascanu13.pdf)
 
- 
+## word2vec
+- Mikolov T, Chen K, Corrado G, et al. Efficient Estimation of Word Representations in Vector Space[J]. Computer Science, 2013. [链接](https://arxiv.org/pdf/1301.3781.pdf)
+- Mikolov T, Sutskever I, Chen K, et al. Distributed Representations of Words and Phrases and their Compositionality[J]. 2013, 26:3111-3119. [链接](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+- Pennington J, Socher R, Manning C. Glove: Global Vectors for Word Representation Conference on Empirical Methods in Natural Language Processing. 2014:1532-1543. [链接](https://www.aclweb.org/anthology/D14-1162)
