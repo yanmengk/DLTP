@@ -17,3 +17,6 @@
 - Mikolov T, Chen K, Corrado G, et al. Efficient Estimation of Word Representations in Vector Space[J]. Computer Science, 2013. [链接](https://arxiv.org/pdf/1301.3781.pdf)
 - Mikolov T, Sutskever I, Chen K, et al. Distributed Representations of Words and Phrases and their Compositionality[J]. 2013, 26:3111-3119. [链接](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 - Pennington J, Socher R, Manning C. Glove: Global Vectors for Word Representation Conference on Empirical Methods in Natural Language Processing. 2014:1532-1543. [链接](https://www.aclweb.org/anthology/D14-1162)
+
+## attention mechanism
+- Attention Is All You Need. Ashish Vaswani, et al. [链接](https://arxiv.org/pdf/1706.03762.pdf)
