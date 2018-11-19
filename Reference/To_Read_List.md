@@ -18,5 +18,10 @@
 - Mikolov T, Sutskever I, Chen K, et al. Distributed Representations of Words and Phrases and their Compositionality[J]. 2013, 26:3111-3119. [链接](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 - Pennington J, Socher R, Manning C. Glove: Global Vectors for Word Representation Conference on Empirical Methods in Natural Language Processing. 2014:1532-1543. [链接](https://www.aclweb.org/anthology/D14-1162)
 
+
+## seq2seq
+- Sutskever I, Vinyals O, Le Q V. Sequence to Sequence Learning with Neural Networks[J]. 2014. [链接](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+- Cho K, Van Merrienboer B, Gulcehre C, et al. Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation[J]. Computer Science, 2014. [链接](https://arxiv.org/pdf/1406.1078.pdf)
+
 ## attention mechanism
 - Attention Is All You Need. Ashish Vaswani, et al. [链接](https://arxiv.org/pdf/1706.03762.pdf)
