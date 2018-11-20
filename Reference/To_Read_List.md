@@ -25,3 +25,9 @@
 
 ## attention mechanism
 - Attention Is All You Need. Ashish Vaswani, et al. [链接](https://arxiv.org/pdf/1706.03762.pdf)
+- Neural Machine Translation by Jointly Learning to Align and Translate. Bahdanau, et al. [链接](https://arxiv.org/pdf/1409.0473.pdf)
+
+## BLEU score
+
+- BLEU: a Method for Automatic Evaluation of Machine Translation. Papineni, et al. 2002. [链接](https://aclanthology.info/pdf/P/P02/P02-1040.pdf)
+
