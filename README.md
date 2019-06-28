@@ -1,6 +1,12 @@
 # Deep Learning: Theory and Practice
 ## 前言
-~~本文记录了学习深度学习的主要内容，理论与实践并重，将着重介绍学习循环神经网络、将深度学习应用于自然语言处理领域的诸多实践和理论，方便自己日后复习，也为大家学习Deep Learning for NLP提供一些参考，不足之处请多多指教，共同进步。~~
+记录学习深度学习的主要内容，理论与实践并重，将着重介绍学习前馈神经网络、循环神经网络、卷积神经网络的内容以及将深度学习应用于推荐系统和NLP的诸多理论和实践，作为自己学习历程的点滴记录，也为大家学习相应的内容提供参考，不足之处请多多指教，共同进步。
+
+## 传统机器学习模型
+
+- Perceptron
+- Logistic Regression
+- Softmax Regression (Multinomial Logistic Regression)
 
 ## 循环神经网络
 
